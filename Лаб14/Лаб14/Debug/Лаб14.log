@@ -1,0 +1,4 @@
+﻿  Лаб14.cpp
+C:\Users\super\source\repos\Лаб14\Лаб14\Лаб14.cpp(63,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\super\source\repos\Лаб14\Лаб14\Лаб14.cpp(176,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Лаб14.vcxproj -> C:\Users\super\source\repos\Лаб14\Debug\Лаб14.exe
