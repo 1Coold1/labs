@@ -1,0 +1,52 @@
+﻿  Lab18_11-3.cpp
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Vector.h(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Vector.h(40): message : во время компиляции функции-члена класс шаблон "void Vector<Time>::Print(void)"
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Lab18_11-3.cpp(9): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::Print(void)"
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Lab18_11-3.cpp(8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Vector.h(47,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Vector.h(46): message : во время компиляции функции-члена класс шаблон "void Vector<Time>::Add(T)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Lab18_11-3.cpp(12): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::Add(T)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Vector.h(56,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Vector.h(55): message : во время компиляции функции-члена класс шаблон "void Vector<Time>::Del(T)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Lab18_11-3.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::Del(T)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Vector.h(68,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Vector.h(66): message : во время компиляции функции-члена класс шаблон "T Vector<T>::Srednee(void)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Lab18_11-3.cpp(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "T Vector<T>::Srednee(void)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Vector.h(75,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Vector.h(74): message : во время компиляции функции-члена класс шаблон "void Vector<Time>::Sum(T)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\super\source\repos\Lab18_11-3\Lab18_11-3\Lab18_11-3.cpp(20): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::Sum(T)"
+          with
+          [
+              T=Time
+          ]
+  Time.cpp
+  Создание кода...
+  Lab18_11-3.vcxproj -> C:\Users\super\source\repos\Lab18_11-3\Debug\Lab18_11-3.exe
