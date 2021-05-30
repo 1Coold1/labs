@@ -1,0 +1,22 @@
+﻿  Lab18_12-3.cpp
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Container.h(42,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Container.h(41): message : во время компиляции функции-члена класс шаблон "void Container<Time>::Print(void)"
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Lab18_12-3.cpp(12): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Container<Time>::Print(void)"
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Lab18_12-3.cpp(11): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Container<Time>"
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Container.h(89,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Container.h(86): message : во время компиляции функции-члена класс шаблон "void Container<Time>::Sum(void)"
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Lab18_12-3.cpp(19): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Container<Time>::Sum(void)"
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Container.h(80,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Container.h(77): message : во время компиляции функции-члена класс шаблон "T Container<T>::Srednee(void)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Container.h(87): message : выполняется компиляция ссылки на экземпляр шаблон функции "T Container<T>::Srednee(void)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Container.h(31): message : во время компиляции функции-члена класс шаблон "Container<Time>::Container(int)"
+C:\Users\super\source\repos\Lab18_12-3\Lab18_12-3\Lab18_12-3.cpp(11): message : выполняется компиляция ссылки на экземпляр шаблон функции "Container<Time>::Container(int)"
+  Lab18_12-3.vcxproj -> C:\Users\super\source\repos\Lab18_12-3\Debug\Lab18_12-3.exe

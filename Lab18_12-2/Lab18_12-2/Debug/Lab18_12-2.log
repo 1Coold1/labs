@@ -1,0 +1,5 @@
+﻿  Lab18_12-2.cpp
+C:\Users\super\source\repos\Lab18_12-2\Lab18_12-2\Lab18_12-2.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_12-2\Lab18_12-2\Lab18_12-2.cpp(50,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_12-2\Lab18_12-2\Lab18_12-2.cpp(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab18_12-2.vcxproj -> C:\Users\super\source\repos\Lab18_12-2\Debug\Lab18_12-2.exe
