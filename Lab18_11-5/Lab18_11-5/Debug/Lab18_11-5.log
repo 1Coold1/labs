@@ -1,0 +1,11 @@
+﻿  Lab18_11-5.cpp
+C:\Users\super\source\repos\Lab18_11-5\Lab18_11-5\Vector.h(77,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_11-5\Lab18_11-5\Vector.h(63): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::queue<T,std::deque<T,std::allocator<T>>> copy_vector_to_queue<T>(std::vector<T,std::allocator<T>>)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\super\source\repos\Lab18_11-5\Lab18_11-5\Vector.h(53): message : во время компиляции функции-члена класс шаблон "void Vector<Time>::Print(void)"
+C:\Users\super\source\repos\Lab18_11-5\Lab18_11-5\Lab18_11-5.cpp(11): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::Print(void)"
+C:\Users\super\source\repos\Lab18_11-5\Lab18_11-5\Lab18_11-5.cpp(9): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
+  Lab18_11-5.vcxproj -> C:\Users\super\source\repos\Lab18_11-5\Debug\Lab18_11-5.exe

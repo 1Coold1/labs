@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab18_10-1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Lab18_11-1.cpp
+C:\Users\super\source\repos\Lab18_10-1\Lab18_10-1\Lab18_11-1.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_10-1\Lab18_10-1\Lab18_11-1.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_10-1\Lab18_10-1\Lab18_11-1.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_10-1\Lab18_10-1\Lab18_11-1.cpp(24,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_10-1\Lab18_10-1\Lab18_11-1.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_10-1\Lab18_10-1\Lab18_11-1.cpp(36,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\Lab18_10-1\Lab18_10-1\Lab18_11-1.cpp(38,13): warning C4244: +=: преобразование "float" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  Lab18_10-1.vcxproj -> C:\Users\super\source\repos\Lab18_10-1\Debug\Lab18_11-1.exe
