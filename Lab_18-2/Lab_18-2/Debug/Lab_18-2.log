@@ -1,0 +1,6 @@
+﻿  Lab_18-2.cpp
+C:\Users\super\source\repos\Lab_18-2\Lab_18-2\Lab_18-2.cpp(31,35): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\super\source\repos\Lab_18-2\Lab_18-2\Lab_18-2.cpp(34,26): warning C4305: аргумент: усечение из "double" в "float"
+  Number.cpp
+  Создание кода...
+  Lab_18-2.vcxproj -> C:\Users\super\source\repos\Lab_18-2\Debug\Lab_18-2.exe
