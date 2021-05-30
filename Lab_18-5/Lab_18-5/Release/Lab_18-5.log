@@ -1,0 +1,7 @@
+﻿  Complex.cpp
+  Lab_18-5.cpp
+  Pair.cpp
+  Vector.cpp
+Pair.obj : error LNK2001: неразрешенный внешний символ "public: __thiscall Object::~Object(void)" (??1Object@@QAE@XZ).
+Pair.obj : error LNK2001: неразрешенный внешний символ "public: __thiscall Object::Object(void)" (??0Object@@QAE@XZ).
+C:\Users\super\source\repos\Lab_18-5\Release\Lab_18-5.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
